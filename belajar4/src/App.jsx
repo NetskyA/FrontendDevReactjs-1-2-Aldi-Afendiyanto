@@ -73,7 +73,7 @@ export default function App() {
                 <div className="md:w-8/12 lg:ml-6 lg:w-5/12">
                   <div className="cover">
                     <div className="w-4/5 flex flex-col items-center justify-center mb-10">
-                      <div className="text-4xl text-primary font-semibold" style={{ color: "coral" }}>Toko Suka Suka</div>
+                      <div className="text-4xl text-primary font-semibold" style={{ color: "coral" }}>Restorant</div>
                     </div>
                     <form onSubmit={handleSubmit(loginPage)} className="space-y-4 md:space-y-6" action="" method="post">
                       <div>
