@@ -1,0 +1,308 @@
+{
+    "barang": [
+      {
+        "id": "M0001",
+        "nama": "Pizza Margherita",
+        "harga": 75000,
+        "qty": 10,
+        "kategori": [1, 2, 9],
+        "merk": 7
+      },
+      {
+        "id": "M0002",
+        "nama": "Spaghetti Carbonara",
+        "harga": 85000,
+        "qty": 15,
+        "kategori": 1,
+        "merk": 7
+      },
+      {
+        "id": "L0001",
+        "nama": "Nasi Goreng",
+        "harga": 40000,
+        "qty": 20,
+        "kategori": 2,
+        "merk": 9
+      },
+      {
+        "id": "S0001",
+        "nama": "Sate Ayam",
+        "harga": 25000,
+        "qty": 2,
+        "kategori": 3,
+        "merk": 5
+      },
+      {
+        "id": "X0001",
+        "nama": "Mie Goreng",
+        "harga": 30000,
+        "qty": 12,
+        "kategori": 3,
+        "merk": 4
+      },
+      {
+        "id": "M0003",
+        "nama": "Burger Daging",
+        "harga": 55000,
+        "qty": 8,
+        "kategori": [1, 2],
+        "merk": 11
+      },
+      {
+        "id": "R0001",
+        "nama": "Roti Bakar",
+        "harga": 20000,
+        "qty": 25,
+        "kategori": 2,
+        "merk": 6
+      },
+      {
+        "id": "O0001",
+        "nama": "Opor Ayam",
+        "harga": 45000,
+        "qty": 18,
+        "kategori": 3,
+        "merk": 2
+      },
+      {
+        "id": "A0001",
+        "nama": "Apple Pie",
+        "harga": 35000,
+        "qty": 10,
+        "kategori": 9,
+        "merk": 7
+      },
+      {
+        "id": "L0002",
+        "nama": "Lumpia",
+        "harga": 15000,
+        "qty": 50,
+        "kategori": 5,
+        "merk": 9
+      },
+      {
+        "id": "S0002",
+        "nama": "Sushi",
+        "harga": 50000,
+        "qty": 40,
+        "kategori": 6,
+        "merk": 10
+      },
+      {
+        "id": "N0001",
+        "nama": "Nachos",
+        "harga": 45000,
+        "qty": 5,
+        "kategori": 8,
+        "merk": 8
+      },
+      {
+        "id": "S0003",
+        "nama": "Salad Buah",
+        "harga": 30000,
+        "qty": 30,
+        "kategori": 4,
+        "merk": 5
+      },
+      {
+        "id": "L0003",
+        "nama": "Lasagna",
+        "harga": 80000,
+        "qty": 10,
+        "kategori": 1,
+        "merk": 3
+      },
+      {
+        "id": "X0002",
+        "nama": "Xiaolongbao",
+        "harga": 40000,
+        "qty": 20,
+        "kategori": 3,
+        "merk": 4
+      },
+      {
+        "id": "A0002",
+        "nama": "Ayam Geprek",
+        "harga": 35000,
+        "qty": 15,
+        "kategori": 2,
+        "merk": 7
+      },
+      {
+        "id": "A0003",
+        "nama": "Ayam Bakar",
+        "harga": 50000,
+        "qty": 8,
+        "kategori": 1,
+        "merk": 1
+      },
+      {
+        "id": "M0004",
+        "nama": "Martabak Manis",
+        "harga": 20000,
+        "qty": 3,
+        "kategori": 1,
+        "merk": 11
+      },
+      {
+        "id": "S0004",
+        "nama": "Soup Tom Yum",
+        "harga": 65000,
+        "qty": 10,
+        "kategori": 9,
+        "merk": 5
+      },
+      {
+        "id": "L0004",
+        "nama": "Laksa",
+        "harga": 55000,
+        "qty": 20,
+        "kategori": 5,
+        "merk": 9
+      },
+      {
+        "id": "S0005",
+        "nama": "Soto Ayam",
+        "harga": 30000,
+        "qty": 30,
+        "kategori": 6,
+        "merk": 10
+      },
+      {
+        "id": "N0002",
+        "nama": "Nasi Padang",
+        "harga": 50000,
+        "qty": 8,
+        "kategori": 8,
+        "merk": 8
+      },
+      {
+        "id": "S0006",
+        "nama": "Steak Sirloin",
+        "harga": 120000,
+        "qty": 15,
+        "kategori": 4,
+        "merk": 12
+      },
+      {
+        "id": "L0005",
+        "nama": "Lobster Thermidor",
+        "harga": 250000,
+        "qty": 10,
+        "kategori": 1,
+        "merk": 3
+      },
+      {
+        "id": "O0002",
+        "nama": "Onde-onde",
+        "harga": 10000,
+        "qty": 20,
+        "kategori": 3,
+        "merk": 2
+      }
+    ],
+    "kategori": [
+      {
+        "id": 1,
+        "nama": "Makanan Utama"
+      },
+      {
+        "id": 2,
+        "nama": "Cemilan"
+      },
+      {
+        "id": 3,
+        "nama": "Hidangan Penutup"
+      },
+      {
+        "id": 4,
+        "nama": "Minuman"
+      },
+      {
+        "id": 5,
+        "nama": "Sarapan"
+      },
+      {
+        "id": 6,
+        "nama": "Makanan Ringan"
+      },
+      {
+        "id": 7,
+        "nama": "Makanan Tradisional"
+      },
+      {
+        "id": 8,
+        "nama": "Hidangan Internasional"
+      },
+      {
+        "id": 9,
+        "nama": "Hidangan Laut"
+      }
+    ],
+    "merk": [
+      {
+        "id": 1,
+        "nama": "Restoran Padang"
+      },
+      {
+        "id": 2,
+        "nama": "Warung Tegal"
+      },
+      {
+        "id": 3,
+        "nama": "Cafe Modern"
+      },
+      {
+        "id": 4,
+        "nama": "Bistro Asia"
+      },
+      {
+        "id": 5,
+        "nama": "Diner Amerika"
+      },
+      {
+        "id": 6,
+        "nama": "Kedai Kopi"
+      },
+      {
+        "id": 7,
+        "nama": "Pizzeria Italia"
+      },
+      {
+        "id": 8,
+        "nama": "Steakhouse Premium"
+      },
+      {
+        "id": 9,
+        "nama": "Brunch Club"
+      },
+      {
+        "id": 10,
+        "nama": "Snack Bar"
+      },
+      {
+        "id": 11,
+        "nama": "Food Truck"
+      },
+      {
+        "id": 12,
+        "nama": "Restoran Jepang"
+      }
+    ],
+    "users": [
+      {
+        "id": 1,
+        "username": "admin",
+        "password": "nimda",
+        "role": "KASIR"
+      },
+      {
+        "id": 2,
+        "username": "aldi",
+        "password": "aldi1",
+        "role": "PEMBELI"
+      }
+    ]
+  }
+  
+  
